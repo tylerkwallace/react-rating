@@ -112,3 +112,10 @@ button:active{
     color: hsl(228, 45%, 44%);
 }
 
+#hide{
+    display: none;
+}
+#show{
+    display: content;
+}
+
